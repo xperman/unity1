@@ -6,7 +6,7 @@ public class DragTest : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//how are you？
 	}
 
     IEnumerator OnMouseDown()
